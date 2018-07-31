@@ -1,0 +1,2 @@
+今天上传的新代码，没有被显示在contribution中，很奇怪，看了下官方的文档https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/
+第一个想到的是没过24小时 但也不对 最后发现是本地时间不对 差了一天 因为是用GitHub desktop上传的 所以记录的是昨天的时间
