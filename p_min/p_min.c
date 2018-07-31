@@ -3,6 +3,7 @@
 #include<conio.h>
 #include<stdlib.h>
 #define N 10
+//2018/7/31
 typedef struct ss
 { char num[10];
   int s;
