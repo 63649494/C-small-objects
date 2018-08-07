@@ -9,7 +9,7 @@ void fun (int array[3][3])
     for(j=i+1;j<3;j++) //控制右上半三角的方法是在内层循环中循环变量j从i+1或i开始。
         {t=array[i][j];
         array[i][j]=array[j][i];
-        array[j][i]=t;
+        array[j][i]=t; 
         }
 
 }
